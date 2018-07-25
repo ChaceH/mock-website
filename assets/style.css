@@ -1,0 +1,17 @@
+.mainpage{
+    background-color: lightslategray;
+    color: white;
+}
+.cur-t{
+    font-family: cursive;
+}
+.text-mid{
+    padding-top: 8rem;
+}
+.text-tl{
+    padding-top: 2rem;
+}
+.mp2{
+    background-color: white;
+    color: black;
+}
