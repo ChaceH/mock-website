@@ -1,11 +1,7 @@
 .mainpage {
-    background-color: rgb(90, 152, 214);
+    background-color: darkred;
     color: white;
     margin-top: -2rem;
-}
-
-.cur-t {
-    font-family: cursive;
 }
 
 .text-mid {
@@ -36,4 +32,8 @@
 
 .marginleft-15 {
     margin-left: -15px;
+}
+
+.font-um {
+    font-family: 'Jim Nightshade', cursive;
 }
