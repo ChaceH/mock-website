@@ -1,17 +1,39 @@
-.mainpage{
-    background-color: lightslategray;
+.mainpage {
+    background-color: rgb(90, 152, 214);
     color: white;
+    margin-top: -2rem;
 }
-.cur-t{
+
+.cur-t {
     font-family: cursive;
 }
-.text-mid{
+
+.text-mid {
     padding-top: 8rem;
 }
-.text-tl{
+
+.text-tl {
     padding-top: 2rem;
 }
-.mp2{
-    background-color: white;
-    color: black;
+
+.padding-rem3 {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.padding-rem7 {
+    padding: 7rem;
+}
+
+.fontsize-50 {
+    font-size: 50pt;
+}
+
+.paddingtop-rem7 {
+    padding-top: 7rem;
+    padding-right: 15rem;
+}
+
+.marginleft-15 {
+    margin-left: -15px;
 }
